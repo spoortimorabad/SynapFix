@@ -62,7 +62,7 @@ python Enhanced_version_conflict.py install <package_name> <version>  # or only 
 python Enhanced_version_conflict.py auto-resolve <package_name> <version>  # or only <package_name>
 
 ``` 
-You can find the demo the project in the below link:
+You can find demo of the project in the below link:
 - [View Demo](https://youtu.be/VcprNGYaR3M) - Try yourself out
 
 ## Examples
