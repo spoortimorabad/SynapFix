@@ -21,7 +21,7 @@ SynapFix is implemented as a **Python CLI tool** that integrates **agentic AI** 
    The agentic AI model suggests versions compatible with other install packages and provides the optimal resolution.  
    - **Auto-resolve option:** Applies the AI’s suggested versions automatically.  
    - **Manual suggestion mode:** Displays recommended versions for the developer to approve.  
-   - **Agentic AI Backend:** Uses **💎 Gemini API** for intelligent decision-making and version resolution.  
+   - **Agentic AI Backend:** Uses **Gemini API** for intelligent decision-making and version resolution.  
 
 4. **Secure API & Auth (Auth0)**  
    SynapFix uses **Auth0** for authentication and secure API access:  
@@ -62,6 +62,9 @@ python Enhanced_version_conflict.py install <package_name> <version>  # or only 
 python Enhanced_version_conflict.py auto-resolve <package_name> <version>  # or only <package_name>
 
 ``` 
+You can find the demo the project in the below link:
+- [View Demo](https://youtu.be/VcprNGYaR3M) - Try yourself out
+
 ## Examples
 
 - Example commands are illustrated in the images below:
