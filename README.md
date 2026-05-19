@@ -63,8 +63,7 @@ python Enhanced_version_conflict.py auto-resolve <package_name> <version>  # or 
 
 ``` 
 You can find demo of the project in the below link:
-- [View Demo]([https://www.youtube.com/watch?v=QVhl8PQ1DEA])) - Try yourself out
-
+- [View Demo](https://www.youtube.com/watch?v=QVhl8PQ1DEA) — Try it out yourself
 ## Examples
 
 - Example commands are illustrated in the images below:
